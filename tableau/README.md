@@ -1,6 +1,6 @@
 # Tableau Dashboard
 
-Live interactive dashboard: (add your Tableau Public link here)
+Live interactive dashboard: https://public.tableau.com/views/EDMCampaignPerformanceAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Includes:
 1. Open Rate vs. CTOR by Campaign Type (bar chart, sorted by CTOR, with sample size per category)

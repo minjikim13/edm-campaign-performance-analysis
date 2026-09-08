@@ -29,4 +29,4 @@ Python (pandas), SQL, Tableau, ActiveCampaign / GoHighLevel (CRM export), Excel
 - Redirect the Chinese-background (2Airport) segment to WeChat/RedNote rather than Gmail EDM
 
 ## Links
-- Tableau Dashboard: (add your public Tableau link here)
+- Tableau Dashboard: https://public.tableau.com/views/EDMCampaignPerformanceAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
