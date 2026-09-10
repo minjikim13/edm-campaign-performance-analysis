@@ -1,9 +1,7 @@
-# 📊 EDM Campaign Performance Analysis (Python & SQL)
-
-SQL, Python and Tableau analysis of 38 EDM campaigns (Aug 2025 – Sep 2026) for LIVE in Australia (LiA), diagnosing a -24.9pp open rate drop and a 10-16x engagement gap between promotional and informational content.
+📊 EDM Campaign Performance Analysis (Python & SQL)
 
 ## One-line conclusion
-Pure promotional emails convert 10-16x worse than informational content, and a sponsor list import that added mostly Chinese-background contacts caused open rates to drop from 56.4% to 31.5% (-24.9pp) – not because of deliverability failure, but because email is not this segment's habitual communication channel, even while living in Australia.
+Pure promotional emails convert 10–15x worse than informational content (0.81% vs 8–13% CTOR), while a sponsor import tripling subscribers caused open rates to crash by 24.9pp (56.4% → 31.5%), proving the core issue was list dilution from a non-email-centric demographic, rather than deliverability failure.
 
 ## Business Context
 LiA relies on EDM as its primary owned channel to engage international students, but campaign performance was inconsistent. This analysis was conducted to determine whether the issue was content strategy or structural list dilution following a sponsor data import, and to define specific, testable actions to fix the weakest-performing campaign category.
@@ -11,7 +9,6 @@ LiA relies on EDM as its primary owned channel to engage international students,
 ## Key Questions
 - Does email content type (informational vs. promotional) affect open and click behaviour?
 - Did the May 2026 sponsor list consolidation affect performance, and if so, by how much?
-- Are any segments showing early signs of list fatigue (high unsubscribe/bounce)?
 - What specific, testable actions would improve the weakest-performing campaign category?
 
 ## Tools & Skills
@@ -52,4 +49,4 @@ Key data issues addressed:
 - `tableau/`: dashboard link and description
 
 ## Tableau Dashboard
-https://public.tableau.com/views/EDMCampaignPerformanceAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+<img width="2808" height="1354" alt="Dashboard 1" src="https://github.com/user-attachments/assets/4b06e73f-750c-476d-b2d8-6a2b7320ff71" />
