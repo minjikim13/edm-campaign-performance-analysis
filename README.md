@@ -15,7 +15,8 @@ LiA relies on EDM as its primary owned channel to engage international students,
 
 ## Repository Structure
 - `data/cleaned/` - cleaned campaign dataset plus derived summary tables
-- `notebooks/` - Python (pandas) cleaning/classification and SQL aggregation + before/after analysis
+- `notebooks/01_Python_Cleaning_Classification.ipynb` - data prep, content-type classification, and basic Before/After analysis
+- `notebooks/02_SQL_Before_After_Analysis.ipynb` - SQL deep-dive aggregation by campaign type
 - `tableau/` - link to the interactive Tableau Public dashboard
 
 ## Tools & Skills
