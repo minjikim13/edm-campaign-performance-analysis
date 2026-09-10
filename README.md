@@ -1,4 +1,4 @@
-📊 EDM Campaign Performance Analysis (Python & SQL)
+# 📊 EDM Campaign Performance Analysis (Python & SQL)
 
 ## One-line conclusion
 Pure promotional emails convert 10–15x worse than informational content (0.81% vs 8–13% CTOR), while a sponsor import tripling subscribers caused open rates to crash by 24.9pp (56.4% → 31.5%), proving the core issue was list dilution from a non-email-centric demographic, rather than deliverability failure.
@@ -49,4 +49,5 @@ Key data issues addressed:
 - `tableau/`: dashboard link and description
 
 ## Tableau Dashboard
-<img width="2808" height="1354" alt="Dashboard 1" src="https://github.com/user-attachments/assets/4b06e73f-750c-476d-b2d8-6a2b7320ff71" />
+<img width="1457" height="850" alt="Screenshot 2026-09-10 at 10 54 26 am" src="https://github.com/user-attachments/assets/432c7852-6e4a-4b7d-ad55-815d77ba5645" />
+
