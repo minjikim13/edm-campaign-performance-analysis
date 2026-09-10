@@ -1,4 +1,4 @@
-# EDM Campaign Performance Analysis
+# 📊 EDM Campaign Performance Analysis
 
 SQL & Python analysis of 38 EDM campaigns (Aug 2025 - Sep 2026) for LIVE in Australia (LiA), diagnosing a -24.9pp open rate drop and a 10-15x engagement gap between promotional and informational content, with Tableau dashboards and business recommendations.
 
